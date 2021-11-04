@@ -1,2 +1,2 @@
 # assesment
-あなたのいいところ診断ゲーム
+sackboyclankが作ったあなたのいいところ診断ゲーム
